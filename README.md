@@ -5,3 +5,20 @@
 ##### heading 5
 ###### heading 6
 
+*italic*
+
+_italic_
+
+**strong**
+
+~~strikethrough~~
+
+--- hor
+
+___ hor
+
+> Blockqoute
+
+[Google](www.google.com)
+
+
