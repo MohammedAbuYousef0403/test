@@ -5,13 +5,15 @@
 ##### heading 5
 ###### heading 6
 
+* item 1
+* item 2
+* item 3
+
 *italic*
 
-_italic_
+**bold**
 
-not strong
-
-**strong**
+***italic and bold***
 
 ~~strikethrough~~
 
@@ -23,4 +25,10 @@ ___ hor
 
 [Google](www.google.com)
 
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
