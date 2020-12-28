@@ -9,6 +9,8 @@
 
 _italic_
 
+not strong
+
 **strong**
 
 ~~strikethrough~~
