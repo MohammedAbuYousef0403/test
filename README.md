@@ -25,3 +25,4 @@ ___ hor
 
 [Google](https://www.google.com)
 
+![image](https://via.placeholder.com/600/f66b97)
