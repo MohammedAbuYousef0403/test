@@ -16,10 +16,16 @@
 * item 2
 * item 3
 
-
+~
+~~
 ~~~
 efe
 ~~~
+```
+efe
+```
+~~strikethrough~~
+
 
 > Blockqoute
 
