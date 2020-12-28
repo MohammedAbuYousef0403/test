@@ -19,10 +19,16 @@
 
 --- hor
 
-___ hor
+___hor
 
 > Blockqoute
 
 [Google](https://www.google.com)
 
 ![image](http://placehold.jp/100x100.png)
+
+Try to put a blank line before...
+
+---
+
+...and after a horizontal rule.
