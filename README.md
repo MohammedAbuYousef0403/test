@@ -25,4 +25,4 @@ ___ hor
 
 [Google](https://www.google.com)
 
-![image](http://placehold.jp/150x150.png)
+![image](http://placehold.jp/50x50.png)
