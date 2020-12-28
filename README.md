@@ -27,8 +27,8 @@ ___hor
 
 ![image](http://placehold.jp/100x100.png)
 
-Try to put a blank line before...
+
 
 ---
+___
 
-...and after a horizontal rule.
