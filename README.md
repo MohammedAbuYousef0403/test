@@ -5,7 +5,6 @@
 ##### heading 5
 ###### heading 6
 
-
 *italic*
 
 **bold**
@@ -16,26 +15,16 @@
 * item 2
 * item 3
 
-~
-~~
-~~~
-efe
-~~~
-```
-efe
-```
-~~strikethrough~~
+---
 
+```
+write code here
+```
+
+~~strikethrough~~
 
 > Blockqoute
 
 [Google](https://www.google.com)
 
 ![image](http://placehold.jp/100x100.png)
-
-
-
----
-
-
-
