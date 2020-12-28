@@ -5,9 +5,6 @@
 ##### heading 5
 ###### heading 6
 
-* item 1
-* item 2
-* item 3
 
 *italic*
 
@@ -15,11 +12,14 @@
 
 ***italic and bold***
 
-~~strikethrough~~
+* item 1
+* item 2
+* item 3
 
---- hor
 
-___hor
+~~~
+efe
+~~~
 
 > Blockqoute
 
@@ -30,5 +30,6 @@ ___hor
 
 
 ---
-___
+
+
 
